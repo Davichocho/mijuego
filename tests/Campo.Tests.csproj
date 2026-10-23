@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>Exe</OutputType><TargetFramework>net8.0</TargetFramework><ImplicitUsings>enable</ImplicitUsings><Nullable>enable</Nullable></PropertyGroup>
+  <ItemGroup><Compile Include="../server/Rooms.cs" Link="Rooms.cs" /><Compile Include="../server/SkeeRooms.cs" Link="SkeeRooms.cs" /><Compile Include="../server/TankRooms.cs" Link="TankRooms.cs" /><Compile Include="../server/RoomChat.cs" Link="RoomChat.cs" /></ItemGroup>
+</Project>

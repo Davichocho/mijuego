@@ -1,0 +1,8 @@
+server/bin/
+server/obj/
+tests/bin/
+tests/obj/
+publish/
+publish-backups/
+.publish-*/
+campo-iis.zip
